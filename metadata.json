@@ -1,0 +1,6 @@
+{
+  "name": "Outreach Portal E-Verify",
+  "description": "Valid student card verification portal with customizable student name, card number, and training details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
